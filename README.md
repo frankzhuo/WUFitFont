@@ -18,4 +18,4 @@
     [self setFont:[UIFont systemFontWithSize:self.font.pointSize]];
 }
 UILable,UIButton,UITextField,UITextView都可以展示文字，所以如果想在xib或storyBoard中进行字体大小适配,分别继承项目中的WULabel,WUButton,WUTextField,WUTextView即可。
-![image](https://github.com/wqhiOS/WUGesturesToUnlock/raw/master/WUFitFont.png)
+![image](https://github.com/wqhiOS/WUFitFont/raw/master/WUFitFont.png)
